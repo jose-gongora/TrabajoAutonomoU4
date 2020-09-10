@@ -1,3 +1,5 @@
+%José Fernando Góngora Macías
+%e1316218559@live.uleam.edu.ec
 function varargout = TrabajoCCUV(varargin)
 % TRABAJOCCUV MATLAB code for TrabajoCCUV.fig
 %      TRABAJOCCUV, by itself, creates a new TRABAJOCCUV or raises the existing
